@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/UTS-WEB3-Reksa-15117/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/UTS-WEB3-Reksa-15117/static/js/main.3c480b3c.chunk.js",
+    "main.js.map": "/UTS-WEB3-Reksa-15117/static/js/main.3c480b3c.chunk.js.map",
+    "runtime-main.js": "/UTS-WEB3-Reksa-15117/static/js/runtime-main.2412c34c.js",
+    "runtime-main.js.map": "/UTS-WEB3-Reksa-15117/static/js/runtime-main.2412c34c.js.map",
+    "static/css/2.69121389.chunk.css": "/UTS-WEB3-Reksa-15117/static/css/2.69121389.chunk.css",
+    "static/js/2.c39e3bc8.chunk.js": "/UTS-WEB3-Reksa-15117/static/js/2.c39e3bc8.chunk.js",
+    "static/js/2.c39e3bc8.chunk.js.map": "/UTS-WEB3-Reksa-15117/static/js/2.c39e3bc8.chunk.js.map",
+    "index.html": "/UTS-WEB3-Reksa-15117/index.html",
+    "precache-manifest.90c07ca9a356d46804d752a5f2d0cf0b.js": "/UTS-WEB3-Reksa-15117/precache-manifest.90c07ca9a356d46804d752a5f2d0cf0b.js",
+    "service-worker.js": "/UTS-WEB3-Reksa-15117/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/UTS-WEB3-Reksa-15117/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/UTS-WEB3-Reksa-15117/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c39e3bc8.chunk.js.LICENSE.txt": "/UTS-WEB3-Reksa-15117/static/js/2.c39e3bc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2412c34c.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.c39e3bc8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3c480b3c.chunk.js"
+  ]
+}
